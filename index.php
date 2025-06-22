@@ -73,7 +73,7 @@ get_header();
 
             <?php while (have_posts()) : the_post(); ?>
                 <!-- item start  -->
-                <div class="col-md-4">
+                <div class="col-md-4 mb-md-4 mb-3">
                     <div class="card shadow rounded-0">
 
                         <?php if (has_post_thumbnail()) {
