@@ -12,7 +12,7 @@ function wpb_change_title_text($title)
 {
     $screen = get_current_screen();
     if ('post' == $screen->post_type) {
-        $title = 'Image size = width: 439px; height: 414px';
+        $title = 'Image size = width: 414px; height: 227px';
     }
     return $title;
 }
