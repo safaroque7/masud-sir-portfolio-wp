@@ -1,0 +1,18 @@
+# Query: image
+
+11 results - 2 files
+
+header.php:
+  38:                             <img src="<?php echo get_template_directory_uri(); ?>/images/logo-1.jpg" alt="Main-logo" class="img-fluid" style="width: 80px;">
+
+index.php:
+   13:                 <img src="images/welcome-banner-1.jpg" class="d-block w-100 img-fluid" alt="...">
+   16:                 <img src="images/welcome-banner-2.jpg" class="d-block w-100 img-fluid" alt="...">
+   19:                 <img src="images/welcome-banner-3.jpg" class="d-block w-100 img-fluid" alt="...">
+   61:                     <img src="images/project-1.jpg" class="card-img-top rounded-0" alt="...">
+   79:                     <img src="images/project_2.jpg" class="card-img-top rounded-0" alt="...">
+   97:                     <img src="images/project-3.jpg" class="card-img-top rounded-0" alt="...">
+  115:                     <img src="images/project-4.jpg" class="card-img-top rounded-0" alt="...">
+  133:                     <img src="images/project-5.jpg" class="card-img-top rounded-0" alt="...">
+  151:                     <img src="images/project-6.jpg" class="card-img-top rounded-0" alt="...">
+  183:                         <a href="#"><img src="images/logo-1.jpg" alt="main logo" style="width: 80px;"></a>
